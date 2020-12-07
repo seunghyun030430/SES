@@ -1,0 +1,1473 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.7.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "3층",
+    "name" : "2층_H",
+    "SUID" : 403,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "429",
+        "shared_name" : "Node 4",
+        "name" : "path",
+        "SUID" : 429,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -658.5791015625,
+        "y" : -348.1208340422523
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "428",
+        "shared_name" : "Node 3",
+        "name" : "중앙계단3층입구",
+        "SUID" : 428,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -558.7218017578125,
+        "y" : -298.3245999113929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "427",
+        "shared_name" : "Node 1",
+        "name" : "중앙계단",
+        "SUID" : 427,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -513.1088711516272,
+        "y" : -297.0581970214844
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "shared_name" : "Node 22",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 289,
+        "diffusion_output_rank" : 40,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1008.4475552336586,
+        "y" : -260.7638244628906
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "shared_name" : "path",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 286,
+        "diffusion_output_rank" : 42,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -452.05035400390625,
+        "y" : -346.85359161061166
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "shared_name" : "Node 26",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 285,
+        "diffusion_output_rank" : 43,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -350.92671172779916,
+        "y" : -177.9556884765625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "377",
+        "shared_name" : "Node 28",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 377,
+        "diffusion_output_rank" : 44,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1005.7494662507164,
+        "y" : -349.387939453125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "shared_name" : "Node 1",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1-5",
+        "SUID" : 316,
+        "diffusion_output_rank" : 10,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -898.8890156088139,
+        "y" : -407.04931640625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "shared_name" : "Node 2",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "여자화장실",
+        "SUID" : 315,
+        "diffusion_output_rank" : 11,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1084.427101546314,
+        "y" : -568.5736083984375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "남자화장실",
+        "SUID" : 314,
+        "diffusion_output_rank" : 12,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1079.66382935624,
+        "y" : -655.4912341856023
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "shared_name" : "Node 4",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "계단",
+        "SUID" : 313,
+        "diffusion_output_rank" : 13,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1079.66382935624,
+        "y" : -736.0967334531804
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "shared_name" : "Node 1",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "진로진학상담실",
+        "SUID" : 312,
+        "diffusion_output_rank" : 14,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1088.753761702564,
+        "y" : -492.00042724609375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "376",
+        "shared_name" : "Node 2",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1-6",
+        "SUID" : 376,
+        "diffusion_output_rank" : 15,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -899.4147338867188,
+        "y" : -502.8496928872798
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1-7",
+        "SUID" : 311,
+        "diffusion_output_rank" : 16,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -900.1156616210938,
+        "y" : -593.9396137533452
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "shared_name" : "Node 4",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1-8",
+        "SUID" : 310,
+        "diffusion_output_rank" : 17,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -905.4046630859375,
+        "y" : -690.3182758627202
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "shared_name" : "Node 1",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1-1",
+        "SUID" : 281,
+        "diffusion_output_rank" : 18,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -283.24066162109375,
+        "y" : -388.5900348959233
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "shared_name" : "Node 2",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1-2",
+        "SUID" : 309,
+        "diffusion_output_rank" : 7,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -283.24066162109375,
+        "y" : -479.66901438811084
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1-3",
+        "SUID" : 308,
+        "diffusion_output_rank" : 20,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -281.6529235839844,
+        "y" : -575.5099872885014
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "shared_name" : "Node 4",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1-4",
+        "SUID" : 282,
+        "diffusion_output_rank" : 21,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -280.065185546875,
+        "y" : -669.7639384927486
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "shared_name" : "Node 1",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "수체전 비품실",
+        "SUID" : 307,
+        "diffusion_output_rank" : 22,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -467.9164584382164,
+        "y" : -446.7904052734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "375",
+        "shared_name" : "Node 2",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "여자화장실",
+        "SUID" : 375,
+        "diffusion_output_rank" : 23,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -460.3141589460837,
+        "y" : -547.0595522662096
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "남자화장실",
+        "SUID" : 306,
+        "diffusion_output_rank" : 24,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -460.3141589460837,
+        "y" : -639.7252627154284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "shared_name" : "Node 4",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "계단",
+        "SUID" : 305,
+        "diffusion_output_rank" : 25,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -460.3141589460837,
+        "y" : -732.3914004107409
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "shared_name" : "Node 5",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "영재교육부",
+        "SUID" : 304,
+        "diffusion_output_rank" : 26,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -756.7559048430335,
+        "y" : -394.0762634277344
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "shared_name" : "Node 9",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "상담실",
+        "SUID" : 301,
+        "diffusion_output_rank" : 29,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1149.1129379076388,
+        "y" : -333.4317932128906
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "shared_name" : "Node 1",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 300,
+        "diffusion_output_rank" : 30,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1003.6852111816406,
+        "y" : -406.4676208496094
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "shared_name" : "Node 2",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 299,
+        "diffusion_output_rank" : 31,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1003.6852111816406,
+        "y" : -503.35888671875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 298,
+        "diffusion_output_rank" : 32,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1003.6852111816406,
+        "y" : -594.3973388671875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "shared_name" : "Node 4",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 297,
+        "diffusion_output_rank" : 33,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1003.6852111816406,
+        "y" : -688.65087890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "shared_name" : "Node 1",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 296,
+        "diffusion_output_rank" : 34,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -385.0146789550781,
+        "y" : -392.3738247649086
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 295,
+        "diffusion_output_rank" : 35,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -385.0144572915767,
+        "y" : -480.91851806640625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 294,
+        "diffusion_output_rank" : 36,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -383.4267353353764,
+        "y" : -575.1721801757812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "shared_name" : "Node 4",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 293,
+        "diffusion_output_rank" : 37,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -383.4267192544673,
+        "y" : -667.8375854492188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "shared_name" : "Node 19",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "계단",
+        "SUID" : 292,
+        "diffusion_output_rank" : 6,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -354.4880065917969,
+        "y" : -341.78566009837266
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "426",
+        "shared_name" : "Node 10",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "계단",
+        "SUID" : 426,
+        "diffusion_output_rank" : 19,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1057.2514595383348,
+        "y" : -330.8111572265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "425",
+        "shared_name" : "Node 11",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 425,
+        "diffusion_output_rank" : 9,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -658.8186645507812,
+        "y" : -184.29061858815075
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "424",
+        "shared_name" : "Node 12",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 424,
+        "diffusion_output_rank" : 27,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1009.7145385742188,
+        "y" : -188.73553497630235
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "423",
+        "shared_name" : "Node 13",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "자습실",
+        "SUID" : 423,
+        "diffusion_output_rank" : 28,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -660.0337368742836,
+        "y" : -128.41439819335938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "422",
+        "shared_name" : "Node 14",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 422,
+        "diffusion_output_rank" : 38,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1181.3705062670135,
+        "y" : -263.8369140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "421",
+        "shared_name" : "Node 15",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "1학년부",
+        "SUID" : 421,
+        "diffusion_output_rank" : 41,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -510.0853271484375,
+        "y" : -386.84873993235703
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "420",
+        "shared_name" : "Node 16",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "진로진학상담부",
+        "SUID" : 420,
+        "diffusion_output_rank" : 8,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -558.7068637116539,
+        "y" : -398.1669006347656
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "419",
+        "shared_name" : "Node 5",
+        "diffusion_output_heat" : 1.0,
+        "diffusion_input" : 1.0,
+        "name" : "path",
+        "SUID" : 419,
+        "diffusion_output_rank" : 4,
+        "selected" : true
+      },
+      "position" : {
+        "x" : -757.4081420898438,
+        "y" : -349.3878018156898
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "418",
+        "shared_name" : "Node 15",
+        "diffusion_output_heat" : 1.0,
+        "diffusion_input" : 1.0,
+        "name" : "path",
+        "SUID" : 418,
+        "diffusion_output_rank" : 0,
+        "selected" : true
+      },
+      "position" : {
+        "x" : -514.1361694335938,
+        "y" : -346.8540805085289
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "417",
+        "shared_name" : "Node 16",
+        "diffusion_output_heat" : 1.0,
+        "diffusion_input" : 1.0,
+        "name" : "path",
+        "SUID" : 417,
+        "diffusion_output_rank" : 1,
+        "selected" : true
+      },
+      "position" : {
+        "x" : -559.750244140625,
+        "y" : -348.1204373137367
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "416",
+        "shared_name" : "Node 17",
+        "diffusion_output_heat" : 1.0,
+        "diffusion_input" : 1.0,
+        "name" : "path",
+        "SUID" : 416,
+        "diffusion_output_rank" : 2,
+        "selected" : true
+      },
+      "position" : {
+        "x" : -861.305419921875,
+        "y" : -348.1208035246742
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "415",
+        "shared_name" : "Node 19",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "화장실",
+        "SUID" : 415,
+        "diffusion_output_rank" : 5,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -861.0329745514977,
+        "y" : -389.631591796875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "414",
+        "shared_name" : "Node 23",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "path",
+        "SUID" : 414,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -352.19340545970084,
+        "y" : -251.44400024414062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "413",
+        "shared_name" : "Node 24",
+        "diffusion_output_heat" : 0.0,
+        "diffusion_input" : 0.0,
+        "name" : "야외",
+        "SUID" : 413,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -220.0,
+        "y" : -249.0
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "454",
+        "source" : "429",
+        "target" : "425",
+        "shared_name" : "path (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 2,
+        "name" : "path (interacts with) path",
+        "interaction" : "2",
+        "SUID" : 454,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453",
+        "source" : "429",
+        "target" : "417",
+        "shared_name" : "path (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "path (interacts with) path",
+        "interaction" : "3",
+        "SUID" : 453,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "452",
+        "source" : "428",
+        "target" : "427",
+        "shared_name" : "Node 3 (interacts with) 중앙계단",
+        "shared_interaction" : "interacts with",
+        "W" : 0,
+        "name" : "Node 3 (interacts with) 중앙계단",
+        "interaction" : "0",
+        "SUID" : 452,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "451",
+        "source" : "427",
+        "target" : "418",
+        "shared_name" : "Node 1 (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 1 (interacts with) path",
+        "interaction" : "1",
+        "SUID" : 451,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "450",
+        "source" : "289",
+        "target" : "301",
+        "shared_name" : "path (interacts with) 상담실",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "path (interacts with) 상담실",
+        "interaction" : "1",
+        "SUID" : 450,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "395",
+        "source" : "286",
+        "target" : "292",
+        "shared_name" : "Node 25 (interacts with) Node 19",
+        "shared_interaction" : "interacts with",
+        "W" : 2,
+        "name" : "Node 25 (interacts with) Node 19",
+        "interaction" : "2",
+        "SUID" : 395,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "449",
+        "source" : "286",
+        "target" : "414",
+        "shared_name" : "path (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "path (interacts with) path",
+        "interaction" : "3",
+        "SUID" : 449,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "448",
+        "source" : "285",
+        "target" : "414",
+        "shared_name" : "Node 26 (interacts with) Node 23",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "Node 26 (interacts with) Node 23",
+        "interaction" : "3",
+        "SUID" : 448,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "394",
+        "source" : "377",
+        "target" : "300",
+        "shared_name" : "Node 28 (interacts with) 학생자지치부",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 28 (interacts with) 학생자지치부",
+        "interaction" : "5",
+        "SUID" : 394,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "447",
+        "source" : "377",
+        "target" : "289",
+        "shared_name" : "Node 28 (interacts with) Node 22",
+        "shared_interaction" : "interacts with",
+        "W" : 2,
+        "name" : "Node 28 (interacts with) Node 22",
+        "interaction" : "2",
+        "SUID" : 447,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "359",
+        "source" : "316",
+        "target" : "300",
+        "shared_name" : "학생자지치부 (interacts with) 학생자지치",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "학생자지치부 (interacts with) 학생자지치부",
+        "interaction" : "1",
+        "SUID" : 359,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "358",
+        "source" : "313",
+        "target" : "297",
+        "shared_name" : "계단 (interacts with) 수학교실2",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "계단 (interacts with) 수학교실2",
+        "interaction" : "1",
+        "SUID" : 358,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "357",
+        "source" : "312",
+        "target" : "300",
+        "shared_name" : "Node 1 (interacts with) 학생자지치부",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 1 (interacts with) 학생자지치부",
+        "interaction" : "1",
+        "SUID" : 357,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "390",
+        "source" : "376",
+        "target" : "299",
+        "shared_name" : "Node 2 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 2 (interacts with) Node 2",
+        "interaction" : "1",
+        "SUID" : 390,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "source" : "281",
+        "target" : "296",
+        "shared_name" : "Node 1 (interacts with) Node 1",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 1 (interacts with) Node 1",
+        "interaction" : "1",
+        "SUID" : 317,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "355",
+        "source" : "309",
+        "target" : "295",
+        "shared_name" : "Node 2 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 2 (interacts with) Node 2",
+        "interaction" : "1",
+        "SUID" : 355,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "354",
+        "source" : "308",
+        "target" : "294",
+        "shared_name" : "Node 3 (interacts with) Node 3",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 3 (interacts with) Node 3",
+        "interaction" : "1",
+        "SUID" : 354,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "389",
+        "source" : "375",
+        "target" : "295",
+        "shared_name" : "Node 2 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 2 (interacts with) Node 2",
+        "interaction" : "1",
+        "SUID" : 389,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "353",
+        "source" : "306",
+        "target" : "294",
+        "shared_name" : "Node 3 (interacts with) Node 3",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 3 (interacts with) Node 3",
+        "interaction" : "1",
+        "SUID" : 353,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "446",
+        "source" : "304",
+        "target" : "419",
+        "shared_name" : "Node 5 (interacts with) Node 5",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 5 (interacts with) Node 5",
+        "interaction" : "1",
+        "SUID" : 446,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "348",
+        "source" : "300",
+        "target" : "299",
+        "shared_name" : "학생자지치부 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "학생자지치부 (interacts with) Node 2",
+        "interaction" : "5",
+        "SUID" : 348,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "347",
+        "source" : "299",
+        "target" : "315",
+        "shared_name" : "Node 2 (interacts with) 여자화장실",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 2 (interacts with) 여자화장실",
+        "interaction" : "1",
+        "SUID" : 347,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "387",
+        "source" : "298",
+        "target" : "311",
+        "shared_name" : "Node 3 (interacts with) Node 3",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 3 (interacts with) Node 3",
+        "interaction" : "1",
+        "SUID" : 387,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "345",
+        "source" : "298",
+        "target" : "314",
+        "shared_name" : "Node 3 (interacts with) 남자화장실",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 3 (interacts with) 남자화장실",
+        "interaction" : "1",
+        "SUID" : 345,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "346",
+        "source" : "298",
+        "target" : "299",
+        "shared_name" : "Node 3 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 3 (interacts with) Node 2",
+        "interaction" : "5",
+        "SUID" : 346,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "386",
+        "source" : "297",
+        "target" : "310",
+        "shared_name" : "수학교실2 (interacts with) 수학교실2",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "수학교실2 (interacts with) 수학교실2",
+        "interaction" : "1",
+        "SUID" : 386,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "343",
+        "source" : "297",
+        "target" : "298",
+        "shared_name" : "수학교실2 (interacts with) Node 3",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "수학교실2 (interacts with) Node 3",
+        "interaction" : "5",
+        "SUID" : 343,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "340",
+        "source" : "296",
+        "target" : "286",
+        "shared_name" : "Node 1 (interacts with) Node 25",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 1 (interacts with) Node 25",
+        "interaction" : "5",
+        "SUID" : 340,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "341",
+        "source" : "296",
+        "target" : "307",
+        "shared_name" : "Node 1 (interacts with) Node 1",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 1 (interacts with) Node 1",
+        "interaction" : "1",
+        "SUID" : 341,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "342",
+        "source" : "296",
+        "target" : "295",
+        "shared_name" : "Node 1 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 1 (interacts with) Node 2",
+        "interaction" : "5",
+        "SUID" : 342,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "338",
+        "source" : "294",
+        "target" : "293",
+        "shared_name" : "Node 3 (interacts with) Node 4",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 3 (interacts with) Node 4",
+        "interaction" : "5",
+        "SUID" : 338,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "339",
+        "source" : "294",
+        "target" : "295",
+        "shared_name" : "Node 3 (interacts with) Node 2",
+        "shared_interaction" : "",
+        "W" : 5,
+        "name" : "Node 3 (interacts with) Node 2",
+        "interaction" : "5",
+        "SUID" : 339,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "336",
+        "source" : "293",
+        "target" : "282",
+        "shared_name" : "Node 4 (interacts with) Node 4",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 4 (interacts with) Node 4",
+        "interaction" : "1",
+        "SUID" : 336,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "337",
+        "source" : "293",
+        "target" : "305",
+        "shared_name" : "Node 4 (interacts with) Node 4",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 4 (interacts with) Node 4",
+        "interaction" : "1",
+        "SUID" : 337,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "445",
+        "source" : "426",
+        "target" : "289",
+        "shared_name" : "계단 (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 2,
+        "name" : "계단 (interacts with) path",
+        "interaction" : "2",
+        "SUID" : 445,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "444",
+        "source" : "425",
+        "target" : "423",
+        "shared_name" : "Node 11 (interacts with) Node 13",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 11 (interacts with) Node 13",
+        "interaction" : "1",
+        "SUID" : 444,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "443",
+        "source" : "425",
+        "target" : "285",
+        "shared_name" : "Node 11 (interacts with) Node 26",
+        "shared_interaction" : "interacts with",
+        "W" : 8,
+        "name" : "Node 11 (interacts with) Node 26",
+        "interaction" : "8",
+        "SUID" : 443,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "442",
+        "source" : "424",
+        "target" : "425",
+        "shared_name" : "Node 12 (interacts with) Node 11",
+        "shared_interaction" : "interacts with",
+        "W" : 8,
+        "name" : "Node 12 (interacts with) Node 11",
+        "interaction" : "8",
+        "SUID" : 442,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "441",
+        "source" : "424",
+        "target" : "289",
+        "shared_name" : "Node 12 (interacts with) Node 22",
+        "shared_interaction" : "interacts with",
+        "W" : 2,
+        "name" : "Node 12 (interacts with) Node 22",
+        "interaction" : "2",
+        "SUID" : 441,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "440",
+        "source" : "422",
+        "target" : "289",
+        "shared_name" : "Node 14 (interacts with) Node 22",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 14 (interacts with) Node 22",
+        "interaction" : "5",
+        "SUID" : 440,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "439",
+        "source" : "420",
+        "target" : "417",
+        "shared_name" : "Node 16 (interacts with) Node 16",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 16 (interacts with) Node 16",
+        "interaction" : "1",
+        "SUID" : 439,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "438",
+        "source" : "419",
+        "target" : "429",
+        "shared_name" : "Node 5 (interacts with) Node 4",
+        "shared_interaction" : "interacts with",
+        "W" : 2,
+        "name" : "Node 5 (interacts with) Node 4",
+        "interaction" : "2",
+        "SUID" : 438,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "437",
+        "source" : "418",
+        "target" : "421",
+        "shared_name" : "Node 15 (interacts with) Node 15",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 15 (interacts with) Node 15",
+        "interaction" : "1",
+        "SUID" : 437,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "436",
+        "source" : "418",
+        "target" : "417",
+        "shared_name" : "Node 15 (interacts with) Node 16",
+        "shared_interaction" : "interacts with",
+        "W" : 2,
+        "name" : "Node 15 (interacts with) Node 16",
+        "interaction" : "2",
+        "SUID" : 436,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "435",
+        "source" : "418",
+        "target" : "286",
+        "shared_name" : "Node 15 (interacts with) Node 25",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "Node 15 (interacts with) Node 25",
+        "interaction" : "3",
+        "SUID" : 435,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "434",
+        "source" : "416",
+        "target" : "419",
+        "shared_name" : "Node 17 (interacts with) Node 5",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "Node 17 (interacts with) Node 5",
+        "interaction" : "3",
+        "SUID" : 434,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "433",
+        "source" : "416",
+        "target" : "377",
+        "shared_name" : "path (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "path (interacts with) path",
+        "interaction" : "3",
+        "SUID" : 433,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "432",
+        "source" : "415",
+        "target" : "416",
+        "shared_name" : "Node 19 (interacts with) Node 17",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 19 (interacts with) Node 17",
+        "interaction" : "1",
+        "SUID" : 432,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "431",
+        "source" : "414",
+        "target" : "292",
+        "shared_name" : "Node 23 (interacts with) Node 19",
+        "shared_interaction" : "interacts with",
+        "W" : 0,
+        "name" : "Node 23 (interacts with) Node 19",
+        "interaction" : "0",
+        "SUID" : 431,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "430",
+        "source" : "413",
+        "target" : "414",
+        "shared_name" : "Node 24 (interacts with) Node 23",
+        "shared_interaction" : "interacts with",
+        "W" : 2,
+        "name" : "Node 24 (interacts with) Node 23",
+        "interaction" : "2",
+        "SUID" : 430,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

@@ -1,0 +1,1865 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.7.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Network",
+    "name" : "1층_H",
+    "SUID" : 252,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "316",
+        "ClosenessCentrality" : 0.2320442,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.6991342,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 6",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "학생자지치부",
+        "SelfLoops" : 0,
+        "SUID" : 316,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.30952381,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -666.029296875,
+        "y" : -165.54675805992918
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "ClosenessCentrality" : 0.20192308,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.64069264,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 2",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "여자화장실",
+        "SelfLoops" : 0,
+        "SUID" : 315,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.95238095,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -866.3707580566406,
+        "y" : -323.1689758300781
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "ClosenessCentrality" : 0.17427386,
+        "Eccentricity" : 10,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.56926407,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 3",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "남자화장실",
+        "SelfLoops" : 0,
+        "SUID" : 314,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.73809524,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -865.2184819012951,
+        "y" : -405.3232727050781
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "ClosenessCentrality" : 0.15,
+        "Eccentricity" : 11,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.48484848,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 4",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "계단",
+        "SelfLoops" : 0,
+        "SUID" : 313,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 6.66666667,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -866.3707580566406,
+        "y" : -485.92877197265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "ClosenessCentrality" : 0.2320442,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.6991342,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 5",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "수학교과연구실",
+        "SelfLoops" : 0,
+        "SUID" : 312,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.30952381,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -866.3707580566406,
+        "y" : -240.24472045898438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "ClosenessCentrality" : 0.20192308,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.64069264,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 3",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "수학교실1",
+        "SelfLoops" : 0,
+        "SUID" : 311,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.95238095,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -667.0921630859375,
+        "y" : -264.1963552278979
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "ClosenessCentrality" : 0.17427386,
+        "Eccentricity" : 10,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.56926407,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 4",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "수학교실2",
+        "SelfLoops" : 0,
+        "SUID" : 310,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.73809524,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -668.155029296875,
+        "y" : -346.23421728186776
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "ClosenessCentrality" : 0.18025751,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.58658009,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 2",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "방송실",
+        "SelfLoops" : 0,
+        "SUID" : 309,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.54761905,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -66.77212524414062,
+        "y" : -245.3784472191292
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "ClosenessCentrality" : 0.15909091,
+        "Eccentricity" : 10,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.51948052,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 3",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "교사휴게실(남",
+        "SelfLoops" : 0,
+        "SUID" : 308,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 6.28571429,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -66.77212524414062,
+        "y" : -338.0441881859261
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "ClosenessCentrality" : 0.2038835,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.64502165,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 4",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "성적관리실",
+        "SelfLoops" : 0,
+        "SUID" : 307,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.9047619,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -272.8006212255694,
+        "y" : -199.29779052734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "ClosenessCentrality" : 0.15909091,
+        "Eccentricity" : 10,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.51948052,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 3",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "화장실",
+        "SelfLoops" : 0,
+        "SUID" : 306,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 6.28571429,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -247.02108764648438,
+        "y" : -389.5573012349043
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "ClosenessCentrality" : 0.13953488,
+        "Eccentricity" : 11,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.43939394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 4",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "계단",
+        "SelfLoops" : 0,
+        "SUID" : 305,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 7.16666667,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -247.02108764648438,
+        "y" : -482.2234389302168
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "ClosenessCentrality" : 0.22826087,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.69264069,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 5",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "도서관",
+        "SelfLoops" : 0,
+        "SUID" : 304,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.38095238,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -467.73533971866283,
+        "y" : -125.78709411621094
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "303",
+        "ClosenessCentrality" : 0.21428571,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.66666667,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 6",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "여자화장실",
+        "SelfLoops" : 0,
+        "SUID" : 303,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.66666667,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -955.3883056640625,
+        "y" : -86.82603263619463
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "302",
+        "ClosenessCentrality" : 0.21428571,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.66666667,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 8",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "남자화장실",
+        "SelfLoops" : 0,
+        "SUID" : 302,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.66666667,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -911.7376384711556,
+        "y" : -114.61563110351562
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "ClosenessCentrality" : 0.19905213,
+        "Eccentricity" : 10,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.63419913,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 9",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "매점",
+        "SelfLoops" : 0,
+        "SUID" : 301,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.02380952,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : -1032.6177978515625,
+        "y" : -32.65245056152344
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "ClosenessCentrality" : 0.19905213,
+        "Eccentricity" : 10,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.63419913,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 10",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "보건실",
+        "SelfLoops" : 0,
+        "SUID" : 277,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.02380952,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : -1032.6177978515625,
+        "y" : 122.05587768554688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "ClosenessCentrality" : 0.19905213,
+        "Eccentricity" : 10,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.63419913,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 11",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "회의실",
+        "SelfLoops" : 0,
+        "SUID" : 278,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.02380952,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : -852.8759441352181,
+        "y" : 122.05587768554688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "ClosenessCentrality" : 0.19811321,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.63203463,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 12",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "예술체육복지부",
+        "SelfLoops" : 0,
+        "SUID" : 275,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.04761905,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -720.0763549804688,
+        "y" : 122.05587768554688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "ClosenessCentrality" : 0.19811321,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.63203463,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 13",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "교장실",
+        "SelfLoops" : 0,
+        "SUID" : 274,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.04761905,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -556.6455509578321,
+        "y" : 120.26582336425781
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "ClosenessCentrality" : 0.19534884,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.62554113,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 14",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "행정실",
+        "SelfLoops" : 0,
+        "SUID" : 279,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.11904762,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -340.5741271972656,
+        "y" : 122.05588281578852
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "ClosenessCentrality" : 0.21,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.65800866,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 16",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "당직실",
+        "SelfLoops" : 0,
+        "SUID" : 276,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.76190476,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -112.65310668945312,
+        "y" : 121.07477746733097
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "ClosenessCentrality" : 0.3,
+        "Eccentricity" : 7,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.78787879,
+        "Stress" : 1010,
+        "TopologicalCoefficient" : 0.2,
+        "shared_name" : "Node 3",
+        "BetweennessCentrality" : 0.51567944,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 300,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.33333333,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.8
+      },
+      "position" : {
+        "x" : -733.0888671875,
+        "y" : -73.92149588417192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "ClosenessCentrality" : 0.25149701,
+        "Eccentricity" : 8,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.72943723,
+        "Stress" : 540,
+        "TopologicalCoefficient" : 0.25,
+        "shared_name" : "Node 2",
+        "BetweennessCentrality" : 0.29732869,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 299,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.97619048,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.75
+      },
+      "position" : {
+        "x" : -770.9024709505542,
+        "y" : -253.20401000976562
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "ClosenessCentrality" : 0.21,
+        "Eccentricity" : 9,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.65800866,
+        "Stress" : 330,
+        "TopologicalCoefficient" : 0.25,
+        "shared_name" : "Node 3",
+        "BetweennessCentrality" : 0.18234611,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 298,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.76190476,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -771.96533203125,
+        "y" : -341.05383174061365
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "ClosenessCentrality" : 0.17573222,
+        "Eccentricity" : 10,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.57359307,
+        "Stress" : 86,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "Node 4",
+        "BetweennessCentrality" : 0.04761905,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 297,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.69047619,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.5
+      },
+      "position" : {
+        "x" : -771.96533203125,
+        "y" : -433.71960322498865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "ClosenessCentrality" : 0.25454545,
+        "Eccentricity" : 7,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.73376623,
+        "Stress" : 774,
+        "TopologicalCoefficient" : 0.25,
+        "shared_name" : "Node 2",
+        "BetweennessCentrality" : 0.39140534,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 296,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.92857143,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -159.019499465223,
+        "y" : -139.67193603515625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "ClosenessCentrality" : 0.21875,
+        "Eccentricity" : 8,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.67532468,
+        "Stress" : 572,
+        "TopologicalCoefficient" : 0.33333333,
+        "shared_name" : "Node 3",
+        "BetweennessCentrality" : 0.29152149,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 295,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.57142857,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -159.019499465223,
+        "y" : -232.33828735351562
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "ClosenessCentrality" : 0.18834081,
+        "Eccentricity" : 9,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.60822511,
+        "Stress" : 434,
+        "TopologicalCoefficient" : 0.25,
+        "shared_name" : "Node 3",
+        "BetweennessCentrality" : 0.22299652,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 294,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.30952381,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -159.019499465223,
+        "y" : -325.00421142578125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "ClosenessCentrality" : 0.16153846,
+        "Eccentricity" : 10,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.52813853,
+        "Stress" : 182,
+        "TopologicalCoefficient" : 0.33333333,
+        "shared_name" : "Node 4",
+        "BetweennessCentrality" : 0.09407666,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 293,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 6.19047619,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -159.019499465223,
+        "y" : -417.6696472167969
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "ClosenessCentrality" : 0.21,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.65800866,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 19",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "계단",
+        "SelfLoops" : 0,
+        "SUID" : 292,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.76190476,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -46.19672570951847,
+        "y" : -65.7939682006836
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "ClosenessCentrality" : 0.21,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.65800866,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 20",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "탈출로",
+        "SelfLoops" : 0,
+        "SUID" : 291,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.76190476,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : 0.5482482886604347,
+        "y" : 29.9561767578125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "ClosenessCentrality" : 0.19905213,
+        "Eccentricity" : 10,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.63419913,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 21",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "탈출로",
+        "SelfLoops" : 0,
+        "SUID" : 290,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.02380952,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : -1076.428742722277,
+        "y" : 42.91986083984375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "ClosenessCentrality" : 0.24705882,
+        "Eccentricity" : 9,
+        "Degree" : 6,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.72294372,
+        "Stress" : 606,
+        "TopologicalCoefficient" : 0.16666667,
+        "shared_name" : "Node 22",
+        "BetweennessCentrality" : 0.27061556,
+        "NumberOfUndirectedEdges" : 6,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 289,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.04761905,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.16666667
+      },
+      "position" : {
+        "x" : -851.5975316452897,
+        "y" : 38.961686447862945
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "ClosenessCentrality" : 0.24561404,
+        "Eccentricity" : 8,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.72077922,
+        "Stress" : 442,
+        "TopologicalCoefficient" : 0.25,
+        "shared_name" : "Node 23",
+        "BetweennessCentrality" : 0.19512195,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 288,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.07142857,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.75
+      },
+      "position" : {
+        "x" : -613.3034375464958,
+        "y" : 38.24042510986328
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "ClosenessCentrality" : 0.24137931,
+        "Eccentricity" : 8,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.71428571,
+        "Stress" : 404,
+        "TopologicalCoefficient" : 0.33333333,
+        "shared_name" : "Node 24",
+        "BetweennessCentrality" : 0.17421603,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 287,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.14285714,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.33333333
+      },
+      "position" : {
+        "x" : -340.5017395019531,
+        "y" : 46.37978108287271
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "ClosenessCentrality" : 0.29166667,
+        "Eccentricity" : 6,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.77922078,
+        "Stress" : 992,
+        "TopologicalCoefficient" : 0.33333333,
+        "shared_name" : "path",
+        "BetweennessCentrality" : 0.48664344,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 286,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.42857143,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -128.13308715820312,
+        "y" : -59.6700725531868
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "ClosenessCentrality" : 0.26415094,
+        "Eccentricity" : 7,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.74675325,
+        "Stress" : 568,
+        "TopologicalCoefficient" : 0.2,
+        "shared_name" : "Node 26",
+        "BetweennessCentrality" : 0.26480836,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 285,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.78571429,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 1.8
+      },
+      "position" : {
+        "x" : -111.75665514683521,
+        "y" : 46.32339859008789
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "ClosenessCentrality" : 0.27096774,
+        "Eccentricity" : 8,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.75541126,
+        "Stress" : 636,
+        "TopologicalCoefficient" : 0.2,
+        "shared_name" : "Node 27",
+        "BetweennessCentrality" : 0.30429733,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 284,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.69047619,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.8
+      },
+      "position" : {
+        "x" : -850.848876953125,
+        "y" : -73.92149588417192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "ClosenessCentrality" : 0.29370629,
+        "Eccentricity" : 6,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.78138528,
+        "Stress" : 732,
+        "TopologicalCoefficient" : 0.33333333,
+        "shared_name" : "Node 29",
+        "BetweennessCentrality" : 0.36469222,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "path",
+        "SelfLoops" : 0,
+        "SUID" : 283,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.4047619,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -467.7239074707031,
+        "y" : -69.6157864894994
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "ClosenessCentrality" : 0.13953488,
+        "Eccentricity" : 11,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.43939394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 4",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "교사휴게실(여",
+        "SelfLoops" : 0,
+        "SUID" : 282,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 7.16666667,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -66.77212524414062,
+        "y" : -430.7103563988167
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "ClosenessCentrality" : 0.2038835,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.64502165,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "교무실",
+        "SelfLoops" : 0,
+        "SUID" : 281,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.9047619,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -66.77212524414062,
+        "y" : -152.7116991722542
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "ClosenessCentrality" : 0.21428571,
+        "Eccentricity" : 9,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.66666667,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "Node 36",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "계단",
+        "SelfLoops" : 0,
+        "SUID" : 280,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.66666667,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : -851.1130657172492,
+        "y" : -109.03231811523438
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "359",
+        "source" : "316",
+        "target" : "300",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "학생자지치부 (interacts with) 학생자지치",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "학생자지치부 (interacts with) 학생자지치부",
+        "interaction" : "1",
+        "SUID" : 359,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "358",
+        "source" : "313",
+        "target" : "297",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "계단 (interacts with) 수학교실2",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "계단 (interacts with) 수학교실2",
+        "interaction" : "1",
+        "SUID" : 358,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "357",
+        "source" : "312",
+        "target" : "300",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 1 (interacts with) 학생자지치부",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 1 (interacts with) 학생자지치부",
+        "interaction" : "1",
+        "SUID" : 357,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "356",
+        "source" : "311",
+        "target" : "299",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "수학교실1 (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "수학교실1 (interacts with) path",
+        "interaction" : "1",
+        "SUID" : 356,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "355",
+        "source" : "309",
+        "target" : "295",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 2 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 2 (interacts with) Node 2",
+        "interaction" : "1",
+        "SUID" : 355,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "354",
+        "source" : "308",
+        "target" : "294",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 3 (interacts with) Node 3",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 3 (interacts with) Node 3",
+        "interaction" : "1",
+        "SUID" : 354,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "353",
+        "source" : "306",
+        "target" : "294",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 3 (interacts with) Node 3",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 3 (interacts with) Node 3",
+        "interaction" : "1",
+        "SUID" : 353,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "352",
+        "source" : "303",
+        "target" : "284",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 6 (interacts with) Node 27",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 6 (interacts with) Node 27",
+        "interaction" : "1",
+        "SUID" : 352,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "351",
+        "source" : "277",
+        "target" : "289",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 10 (interacts with) Node 22",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 10 (interacts with) Node 22",
+        "interaction" : "1",
+        "SUID" : 351,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "350",
+        "source" : "278",
+        "target" : "289",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 11 (interacts with) Node 22",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 11 (interacts with) Node 22",
+        "interaction" : "1",
+        "SUID" : 350,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "349",
+        "source" : "279",
+        "target" : "287",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 14 (interacts with) Node 24",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 14 (interacts with) Node 24",
+        "interaction" : "1",
+        "SUID" : 349,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "348",
+        "source" : "300",
+        "target" : "299",
+        "EdgeBetweenness" : 560.0,
+        "shared_name" : "학생자지치부 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "학생자지치부 (interacts with) Node 2",
+        "interaction" : "1",
+        "SUID" : 348,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "347",
+        "source" : "299",
+        "target" : "315",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 2 (interacts with) 여자화장실",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 2 (interacts with) 여자화장실",
+        "interaction" : "1",
+        "SUID" : 347,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "346",
+        "source" : "298",
+        "target" : "299",
+        "EdgeBetweenness" : 380.0,
+        "shared_name" : "Node 3 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 3 (interacts with) Node 2",
+        "interaction" : "5",
+        "SUID" : 346,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "345",
+        "source" : "298",
+        "target" : "314",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 3 (interacts with) 남자화장실",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 3 (interacts with) 남자화장실",
+        "interaction" : "1",
+        "SUID" : 345,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "344",
+        "source" : "298",
+        "target" : "310",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "path (interacts with) 수학교실2",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "path (interacts with) 수학교실2",
+        "interaction" : "1",
+        "SUID" : 344,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "343",
+        "source" : "297",
+        "target" : "298",
+        "EdgeBetweenness" : 164.0,
+        "shared_name" : "수학교실2 (interacts with) Node 3",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "수학교실2 (interacts with) Node 3",
+        "interaction" : "5",
+        "SUID" : 343,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "342",
+        "source" : "296",
+        "target" : "295",
+        "EdgeBetweenness" : 560.0,
+        "shared_name" : "Node 1 (interacts with) Node 2",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 1 (interacts with) Node 2",
+        "interaction" : "5",
+        "SUID" : 342,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "341",
+        "source" : "296",
+        "target" : "307",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 1 (interacts with) Node 1",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 1 (interacts with) Node 1",
+        "interaction" : "1",
+        "SUID" : 341,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "340",
+        "source" : "296",
+        "target" : "286",
+        "EdgeBetweenness" : 704.0,
+        "shared_name" : "Node 1 (interacts with) Node 25",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 1 (interacts with) Node 25",
+        "interaction" : "5",
+        "SUID" : 340,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "339",
+        "source" : "294",
+        "target" : "295",
+        "EdgeBetweenness" : 444.0,
+        "shared_name" : "Node 3 (interacts with) Node 2",
+        "shared_interaction" : "",
+        "W" : 5,
+        "name" : "Node 3 (interacts with) Node 2",
+        "interaction" : "5",
+        "SUID" : 339,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "338",
+        "source" : "294",
+        "target" : "293",
+        "EdgeBetweenness" : 240.0,
+        "shared_name" : "Node 3 (interacts with) Node 4",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 3 (interacts with) Node 4",
+        "interaction" : "5",
+        "SUID" : 338,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "337",
+        "source" : "293",
+        "target" : "305",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 4 (interacts with) Node 4",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 4 (interacts with) Node 4",
+        "interaction" : "1",
+        "SUID" : 337,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "336",
+        "source" : "293",
+        "target" : "282",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 4 (interacts with) Node 4",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 4 (interacts with) Node 4",
+        "interaction" : "1",
+        "SUID" : 336,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "335",
+        "source" : "290",
+        "target" : "289",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 21 (interacts with) Node 22",
+        "shared_interaction" : "interacts with",
+        "W" : 0,
+        "name" : "Node 21 (interacts with) Node 22",
+        "interaction" : "0",
+        "SUID" : 335,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "334",
+        "source" : "289",
+        "target" : "301",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "path (interacts with) 매점",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "path (interacts with) 매점",
+        "interaction" : "1",
+        "SUID" : 334,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "333",
+        "source" : "289",
+        "target" : "288",
+        "EdgeBetweenness" : 300.0,
+        "shared_name" : "Node 22 (interacts with) Node 23",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 22 (interacts with) Node 23",
+        "interaction" : "5",
+        "SUID" : 333,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "332",
+        "source" : "289",
+        "target" : "284",
+        "EdgeBetweenness" : 380.0,
+        "shared_name" : "Node 22 (interacts with) Node 27",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "Node 22 (interacts with) Node 27",
+        "interaction" : "3",
+        "SUID" : 332,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "331",
+        "source" : "288",
+        "target" : "275",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 23 (interacts with) Node 12",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 23 (interacts with) Node 12",
+        "interaction" : "1",
+        "SUID" : 331,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "330",
+        "source" : "288",
+        "target" : "274",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 23 (interacts with) Node 13",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 23 (interacts with) Node 13",
+        "interaction" : "1",
+        "SUID" : 330,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "329",
+        "source" : "287",
+        "target" : "288",
+        "EdgeBetweenness" : 288.0,
+        "shared_name" : "Node 24 (interacts with) Node 23",
+        "shared_interaction" : "interacts with",
+        "W" : 6,
+        "name" : "Node 24 (interacts with) Node 23",
+        "interaction" : "6",
+        "SUID" : 329,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "328",
+        "source" : "286",
+        "target" : "285",
+        "EdgeBetweenness" : 432.0,
+        "shared_name" : "path (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "path (interacts with) path",
+        "interaction" : "3",
+        "SUID" : 328,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "327",
+        "source" : "285",
+        "target" : "276",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 26 (interacts with) Node 16",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 26 (interacts with) Node 16",
+        "interaction" : "1",
+        "SUID" : 327,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "326",
+        "source" : "285",
+        "target" : "291",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 26 (interacts with) Node 20",
+        "shared_interaction" : "interacts with",
+        "W" : 0,
+        "name" : "Node 26 (interacts with) Node 20",
+        "interaction" : "0",
+        "SUID" : 326,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "325",
+        "source" : "285",
+        "target" : "292",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 26 (interacts with) Node 19",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "Node 26 (interacts with) Node 19",
+        "interaction" : "3",
+        "SUID" : 325,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "324",
+        "source" : "285",
+        "target" : "287",
+        "EdgeBetweenness" : 312.0,
+        "shared_name" : "Node 26 (interacts with) Node 24",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "Node 26 (interacts with) Node 24",
+        "interaction" : "5",
+        "SUID" : 324,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "323",
+        "source" : "284",
+        "target" : "300",
+        "EdgeBetweenness" : 500.0,
+        "shared_name" : "path (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 3,
+        "name" : "path (interacts with) path",
+        "interaction" : "3",
+        "SUID" : 323,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "322",
+        "source" : "284",
+        "target" : "302",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 27 (interacts with) Node 8",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 27 (interacts with) Node 8",
+        "interaction" : "1",
+        "SUID" : 322,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "321",
+        "source" : "284",
+        "target" : "280",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 27 (interacts with) Node 36",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 27 (interacts with) Node 36",
+        "interaction" : "1",
+        "SUID" : 321,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "320",
+        "source" : "283",
+        "target" : "300",
+        "EdgeBetweenness" : 632.0,
+        "shared_name" : "path (interacts with) path",
+        "shared_interaction" : "interacts with",
+        "W" : 5,
+        "name" : "path (interacts with) path",
+        "interaction" : "5",
+        "SUID" : 320,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "319",
+        "source" : "283",
+        "target" : "304",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 29 (interacts with) Node 5",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 29 (interacts with) Node 5",
+        "interaction" : "1",
+        "SUID" : 319,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "318",
+        "source" : "283",
+        "target" : "286",
+        "EdgeBetweenness" : 624.0,
+        "shared_name" : "Node 29 (interacts with) Node 25",
+        "shared_interaction" : "interacts with",
+        "W" : 8,
+        "name" : "Node 29 (interacts with) Node 25",
+        "interaction" : "8",
+        "SUID" : 318,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "source" : "281",
+        "target" : "296",
+        "EdgeBetweenness" : 84.0,
+        "shared_name" : "Node 1 (interacts with) Node 1",
+        "shared_interaction" : "interacts with",
+        "W" : 1,
+        "name" : "Node 1 (interacts with) Node 1",
+        "interaction" : "1",
+        "SUID" : 317,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
